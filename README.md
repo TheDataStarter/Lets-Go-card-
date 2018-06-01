@@ -2,7 +2,9 @@
 A collection of R code (in the form of Jupyter notebooks) used in a DATA7001 assignment.
 
 # What is this project?
-(Include link to presentation and report once uploaded)
+[Project presentation](https://drive.google.com/open?id=1CkB1jn-S2n8LT33Zofk-Ro6pX6DhZKck)
+
+
 
 # Jupyter notebooks showing EDA
 Hypothesis - Public Transport serves productive commuters - [Jupyter Notebook](https://github.com/TheDataStarter/Lets-Go-card-/blob/master/Jupyter/Dave%20-%20PT%20serves%20productive%20commuters.ipynb) or [HTML File.](https://github.com/TheDataStarter/Lets-Go-card-/blob/master/Jupyter/Dave%20-%20PT%20serves%20productive%20commuters.html)
