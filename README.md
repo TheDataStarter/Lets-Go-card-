@@ -1,5 +1,5 @@
 # Lets-Go-card-
-A collection of R code (in the form of Jupyter notebooks) used in a DATA7001 assignment.
+A collection of R code (in the form of Jupyter notebooks) used in a DATA7001 assignment for the University of Queensland's Master of Data Science coursework.
 
 # What is this project?
 [Project presentation](https://drive.google.com/open?id=1CkB1jn-S2n8LT33Zofk-Ro6pX6DhZKck)
