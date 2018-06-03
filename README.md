@@ -1,8 +1,12 @@
 # Lets-Go-card-
 A collection of R code (in the form of Jupyter notebooks) used in a DATA7001 assignment for the University of Queensland's Master of Data Science coursework.
 
+_Employ a design thinking-led, data science workflow (involving R, Python, Tableau and ArcGIS) to gather, transform and enrich available data (published as open data by the Queensland Government and Australian Bureau of Statistics). Use of descriptive (aggregation) and diagnostic (clustering, regression) analytics to discover new relationships between features of users of public transport in South East Queensland at both macro and micro scale._
+
 # What is this project?
 [Project presentation](https://drive.google.com/open?id=1CkB1jn-S2n8LT33Zofk-Ro6pX6DhZKck)
+
+[Project report](https://drive.google.com/open?id=1CkB1jn-S2n8LT33Zofk-Ro6pX6DhZKck)
 
 
 
